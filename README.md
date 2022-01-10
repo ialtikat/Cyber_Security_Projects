@@ -1,5 +1,5 @@
 # -- Siber Güvenlik --
-> Scanner.py dosyası içerisinde web sayfaları üzerinde tarama testleri gerçekleştirebileceğiniz Python kodları bulunmakta. 
+# > Scanner.py dosyası içerisinde web sayfaları üzerinde tarama testleri gerçekleştirebileceğiniz Python kodları bulunmakta. 
   - Port taraması
   - Subdomain taraması
   - Dizin taraması gibi tarayıcı kodları yer almaktadır.
