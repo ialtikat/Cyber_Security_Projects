@@ -5,3 +5,6 @@
   - Dizin taraması gibi tarayıcı kodları yer almaktadır.
   
   (Not: Subdomain taraması gerçekleştiriken wordlist kullanmanız gerekmektedir. Lütfen dikkat ediniz. Hatalı gördüğünüz yerleri bildirmeyi unutmayınız!!!)
+
+
+> Doküman klasörü içerisinde kendi hazırlamış olduğum ve çevirisini yaptığım siber güvenlik pdf'leri yer almaktadır. 
